@@ -7,9 +7,9 @@ public class InputOutPutCalculations {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter First Number: ");
+        System.out.print("Enter First Number: ");
         int first_number = sc.nextInt();
-        System.out.println("Enter Second Number: ");
+        System.out.print("Enter Second Number: ");
         int second_number = sc.nextInt();
 
         int addition = first_number+second_number;
